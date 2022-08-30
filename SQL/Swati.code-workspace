@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Swati",
+			"path": "."
+		},
+		{
+			"name": "SQL",
+			"path": "..\\..\\..\\..\\..\\ProjectData\\Freshers_Dev_Setup\\Training_Material_By_Amit\\SQL"
+		},
+		{
+			"name": "SQL",
+			"path": "..\\..\\..\\..\\..\\ProjectData\\Freshers_Dev_Setup\\Training_Material_By_Amit\\SQL"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
