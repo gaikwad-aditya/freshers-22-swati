@@ -3,34 +3,44 @@ import starimg from './images/star-with-smiley-face.png'
 
 const Rating = () => {
     const [rating, setRating] = useState(0)
-
-    const readRating = (e) => {
-        setRating(e.target.value)
-    }
+    const [arr] = useState([])
 
     const showRating = () => {
-        console.log(`rating= ${rating}`)
-        // for (let index = 1; index < rating; index++) {
-        //         index= index + 3
-        // }
-
-        // console.log(`rating= ${rating}`)
+        const n = arr.length
+        if(n>0){
+            for(let j=0; j<n; j++){
+                arr.pop()
+            }
+        }
+        for(let i=0; i< rating;i++){
+            arr.push(i)
+        }
+        setRating(0)
     }
 
     return(
         <div>
-            <div className="mt-3">
-                <label className="fl fontLabel" htmlFor="">Rating:</label>
-                <div className="fl iconBox">
-                    <i className="fa fa-star" aria-hidden="true"></i>
+            <h2 style={{margin:"20px"}}>Registration form</h2>
+            <div>
+                <div className="mt-3">
+                    <label style={{margin:"15px"}} htmlFor="">Rating:</label>
+                    <input onChange={(e)=>{setRating(Number(e.target.value))}} className="textBox" type='number' />
                 </div>
-                <input onChange={readRating} className="textBox" type='number' />
+
+                <div className="mt-3 mb-3">
+                    <button className="btn btn-success" onClick={showRating}>Show Rating</button>
+                </div>
             </div>
 
-            <div className="mt-3 mb-3">
-                <button className="btn btn-success" onClick={showRating}>Show Rating</button>
+            <div>
+                {arr.map((val)=>{
+                    return(
+                        <span>
+                            <img style={{width:"50px", height:"50px"}} src={starimg} alt="star"></img>
+                        </span>
+                    )
+                })}
             </div>
-            <img src={starimg} width='50' height={50} ></img>
 
         </div>
     )
