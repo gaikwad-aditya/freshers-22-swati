@@ -1,0 +1,6 @@
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\bin\Debug\ClassLibrary_Framework.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\bin\Debug\ClassLibrary_Framework.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\obj\Debug\ClassLibrary_Framework.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\obj\Debug\ClassLibrary_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\obj\Debug\ClassLibrary_Framework.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Framework\obj\Debug\ClassLibrary_Framework.pdb

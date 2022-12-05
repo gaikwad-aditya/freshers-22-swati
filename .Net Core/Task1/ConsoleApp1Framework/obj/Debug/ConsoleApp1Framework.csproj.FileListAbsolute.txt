@@ -1,0 +1,8 @@
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\bin\Debug\ConsoleApp1Training.exe.config
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\bin\Debug\ConsoleApp1Training.exe
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\bin\Debug\ConsoleApp1Training.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\obj\Debug\ConsoleApp1Framework.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\obj\Debug\ConsoleApp1Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\obj\Debug\ConsoleApp1Framework.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\obj\Debug\ConsoleApp1Training.exe
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\ConsoleApp1Training\obj\Debug\ConsoleApp1Training.pdb

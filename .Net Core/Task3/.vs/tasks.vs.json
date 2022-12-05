@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-WebApi_demo1",
+      "appliesTo": "WebApi_demo1/",
+      "type": "launch"
+    }
+  ]
+}
