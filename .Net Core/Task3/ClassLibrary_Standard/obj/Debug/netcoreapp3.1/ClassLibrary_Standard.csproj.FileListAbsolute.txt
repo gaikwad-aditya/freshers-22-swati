@@ -1,0 +1,10 @@
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\bin\Debug\netcoreapp3.1\ClassLibrary_Standard.deps.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\bin\Debug\netcoreapp3.1\ClassLibrary_Standard.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\bin\Debug\netcoreapp3.1\ClassLibrary_Standard.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.AssemblyInfoInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.AssemblyInfo.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task3\ClassLibrary_Standard\obj\Debug\netcoreapp3.1\ClassLibrary_Standard.pdb

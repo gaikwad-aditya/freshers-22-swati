@@ -1,0 +1,16 @@
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.exe
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.deps.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.runtimeconfig.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.runtimeconfig.dev.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\bin\Debug\netcoreapp3.1\WinFormsApp_Core.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.Form1.resources
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.csproj.GenerateResource.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.AssemblyInfoInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.AssemblyInfo.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\.Net Core\Task2\WinFormsApp_Core\obj\Debug\netcoreapp3.1\WinFormsApp_Core.genruntimeconfig.cache
