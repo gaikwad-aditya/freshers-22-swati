@@ -1,0 +1,108 @@
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.exe
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.deps.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.dev.json
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.Views.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.AssemblyReference.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfoInputs.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfo.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CoreCompileInputs.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\staticwebassets\WebAppCorem.StaticWebAssets.Manifest.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.input.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.output.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorCoreGenerate.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cs
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.genruntimeconfig.cache
+C:\Users\Meghna.Baviskar\source\repos\NewProject\WebAppFramework\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CopyComplete
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.exe
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.deps.json
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.json
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.dev.json
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.Views.dll
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\bin\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfoInputs.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfo.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\staticwebassets\WebAppCorem.StaticWebAssets.Manifest.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.input.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.output.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorCoreGenerate.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cs
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.genruntimeconfig.cache
+C:\Users\Swati.Pandit\Downloads\recent\WebAppCorem\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CopyComplete
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.exe
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.deps.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.runtimeconfig.dev.json
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.Views.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\bin\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.AssemblyReference.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfoInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.AssemblyInfo.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.RazorAssemblyInfo.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\staticwebassets\WebAppCorem.StaticWebAssets.Manifest.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.input.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.TagHelpers.output.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.RazorCoreGenerate.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.RazorTargetAssemblyInfo.cs
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.Views.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.dll
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.pdb
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.genruntimeconfig.cache
+C:\Users\Swati.Pandit\git\freshers-22-swati\DotNet Core\Task3\obj\Debug\netcoreapp3.1\WebAppCorem.csproj.CopyComplete
